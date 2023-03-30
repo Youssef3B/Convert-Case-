@@ -1,0 +1,7 @@
+.container{
+    margin-top: 100px;
+}
+.col-lg-10{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    padding: 20px;
+}
